@@ -1,0 +1,17 @@
+<com.tencent.protocol.pay_protocol.ScanPayReqData>
+    <appid>wx3ce7a2f3b32885dd</appid>
+    <mch_id>1226736202</mch_id>
+    <device_info>scanpay java sdk test</device_info>
+    <nonce_str>4ofp4nddlp8dztzrfbpfpxq1sujglzr6</nonce_str>
+    <sign>CF89EEFDFC5357521F04D36C6C8AFC5E</sign>
+    <body>body</body>
+    <attach>被扫支付Java SDK 测试页</attach>
+    <out_trade_no>20150116163538</out_trade_no>
+    <total_fee>1</total_fee>
+    <spbill_create_ip>127.0.0.1</spbill_create_ip>
+    <time_start>20150116163538</time_start>
+    <time_expire>20150126163538</time_expire>
+    <goods_tag></goods_tag>
+    <auth_code>2342342342</auth_code>
+    <sdk_version>1.0</sdk_version>
+</com.tencent.protocol.pay_protocol.ScanPayReqData>

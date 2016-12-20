@@ -1,0 +1,28 @@
+<xml>
+    <!--
+   模拟查询支付成功
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <nonce_str><![CDATA[nuBgezvlp0anulFT]]></nonce_str>
+    <sign><![CDATA[2CE9310C3627C8AD445E55F2B5645A7A]]></sign>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <attach><![CDATA[微信支付JavaSDK测试：ScanPayBusinessDemo，为了跑通支付全流程]]></attach>
+    <trade_state><![CDATA[SUCCESS]]></trade_state>
+    <coupon_count>4</coupon_count>
+   <coupon_batch_id_0>0</coupon_batch_id_0>
+   <coupon_id_0>test0</coupon_id_0>
+   <coupon_fee_0>test0</coupon_fee_0>
+    <coupon_batch_id_1>1</coupon_batch_id_1>
+    <coupon_id_1>test1</coupon_id_1>
+    <coupon_fee_1>test1</coupon_fee_1>
+    <coupon_batch_id_2>2</coupon_batch_id_2>
+    <coupon_id_2>test2</coupon_id_2>
+    <coupon_fee_2>test2</coupon_fee_2>
+    <coupon_batch_id_3>3</coupon_batch_id_3>
+    <coupon_id_3>test3</coupon_id_3>
+    <coupon_fee_3>test3</coupon_fee_3>
+</xml>

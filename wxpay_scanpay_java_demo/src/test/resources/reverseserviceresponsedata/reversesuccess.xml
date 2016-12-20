@@ -1,0 +1,14 @@
+<xml>
+    <!--
+    撤销成功
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <nonce_str><![CDATA[pkqirSqjnZduDDDz]]></nonce_str>
+    <sign><![CDATA[81DE7E88F1F581B17A6C1D2846AB7CC5]]></sign>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <recall><![CDATA[N]]></recall>
+</xml>

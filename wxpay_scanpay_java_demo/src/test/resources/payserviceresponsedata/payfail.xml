@@ -1,0 +1,15 @@
+<xml>
+    <!--
+    这里Case11模拟其他原因导致的支付失败，这里调的是NOTSUPORTCARD这种类型，还有其他出错原因处理方法类似，具体可以参考API文档
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <device_info><![CDATA[GRZ的测试机（这里被篡改）]]></device_info>
+    <nonce_str><![CDATA[NnAaEZV2ni44B3t2]]></nonce_str>
+    <sign><![CDATA[E7328E4109F5F6B0AC4B342AFF86D34B]]></sign>
+    <result_code><![CDATA[FAIL]]></result_code>
+    <err_code><![CDATA[NOTSUPORTCARD]]></err_code>
+    <err_code_des><![CDATA[不支持卡类型]]></err_code_des>
+</xml>

@@ -1,0 +1,15 @@
+<xml>
+    <!--
+    这里Case6模拟用户卡余额不足的情况
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <device_info><![CDATA[GRZ的测试机]]></device_info>
+    <nonce_str><![CDATA[fgXVsq7v7mK3JpUL]]></nonce_str>
+    <sign><![CDATA[7E50472066BA2B3549F4BDA14AADF23A]]></sign>
+    <result_code><![CDATA[FAIL]]></result_code>
+    <err_code><![CDATA[NOTENOUGH]]></err_code>
+    <err_code_des><![CDATA[请换其他卡支付或是用现金支付]]></err_code_des>
+</xml>

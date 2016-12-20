@@ -1,0 +1,20 @@
+<xml>
+    <!--
+    这里Case3模拟数据被第三方篡改导致签名验证不通过的情况，所以以下本来是服务器返回的正常数据，只需要在里面稍微修改一丁点数据就可以达到这个效果
+    -->
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <nonce_str><![CDATA[yJJBiBaZEujFtdld]]></nonce_str>
+    <out_refund_no_0><![CDATA[100000001]]></out_refund_no_0>
+    <out_trade_no><![CDATA[1400755861这里被篡改]]></out_trade_no>
+    <refund_count>1</refund_count>
+    <refund_fee_0>1</refund_fee_0>
+    <refund_id_0><![CDATA[2001750737201411010000174008]]></refund_id_0>
+    <refund_status_0><![CDATA[SUCCESS]]></refund_status_0>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <sign><![CDATA[6FA71E31DBAD27A1F49CFF52D78CB5B7]]></sign>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <transaction_id><![CDATA[1001750737201410240005451545]]></transaction_id>
+</xml>

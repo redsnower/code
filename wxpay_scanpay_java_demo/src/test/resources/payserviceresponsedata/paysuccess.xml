@@ -1,0 +1,15 @@
+<xml>
+    <!--
+    这里Case10模拟一次请求就支付成功的情况
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <device_info><![CDATA[GRZ的测试机]]></device_info>
+    <nonce_str><![CDATA[NnAaEZV2ni44B3t2]]></nonce_str>
+    <sign><![CDATA[99BC9BF96CCC56A95867A87F9B3F6832]]></sign>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <err_code><![CDATA[]]></err_code>
+    <err_code_des><![CDATA[]]></err_code_des>
+</xml>

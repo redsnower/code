@@ -1,0 +1,7 @@
+<xml>
+    <!--
+    API本身出错
+    -->
+    <return_code><![CDATA[FAIL]]></return_code>
+    <return_msg><![CDATA[API NOT OK]]></return_msg>
+</xml>

@@ -1,0 +1,26 @@
+<xml>
+    <!--
+    这里模拟查询成功时有多项结果数据的情况
+    -->
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <nonce_str><![CDATA[rZSGn6ywogzeHd9A]]></nonce_str>
+    <out_refund_no_0><![CDATA[100000001]]></out_refund_no_0>
+    <out_trade_no><![CDATA[1400755861]]></out_trade_no>
+    <refund_count>3</refund_count>
+    <refund_fee_0>1</refund_fee_0>
+    <refund_id_0><![CDATA[2001750737201411010000174008本地测试数据]]></refund_id_0>
+    <refund_status_0><![CDATA[PROCESSING本地测试数据]]></refund_status_0>
+    <refund_fee_1>1</refund_fee_1>
+    <refund_id_1><![CDATA[2001750737201411010000174008本地测试数据]]></refund_id_1>
+    <refund_status_1><![CDATA[PROCESSING本地测试数据]]></refund_status_1>
+    <refund_fee_2>1</refund_fee_2>
+    <refund_id_2><![CDATA[2001750737201411010000174008本地测试数据]]></refund_id_2>
+    <refund_status_2><![CDATA[PROCESSING本地测试数据]]></refund_status_2>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <sign><![CDATA[7807F02A77B1C565EDE51FA4F23597B1]]></sign>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <transaction_id><![CDATA[1001750737201410240005451545]]></transaction_id>
+</xml>

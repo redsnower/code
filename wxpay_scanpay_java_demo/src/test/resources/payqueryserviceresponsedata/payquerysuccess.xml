@@ -1,0 +1,15 @@
+<xml>
+    <!--
+   模拟查询支付成功
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <nonce_str><![CDATA[nuBgezvlp0anulFT]]></nonce_str>
+    <sign><![CDATA[EC0178AE067C29AB028CD25454C91B9C]]></sign>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <attach><![CDATA[微信支付JavaSDK测试：ScanPayBusinessDemo，为了跑通支付全流程]]></attach>
+    <trade_state><![CDATA[SUCCESS]]></trade_state>
+</xml>

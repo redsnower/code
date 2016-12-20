@@ -1,0 +1,16 @@
+<xml>
+    <!--
+    这里Case4 模拟退款查询失败
+    -->
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <nonce_str><![CDATA[yJJBiBaZEujFtdld]]></nonce_str>
+    <out_trade_no><![CDATA[]]></out_trade_no>
+    <refund_count>1</refund_count>
+    <result_code><![CDATA[FAIL]]></result_code>
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <sign><![CDATA[E40A64D93ECDB890EDC9511F2A129782]]></sign>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <transaction_id><![CDATA[1001750737201410240005451545]]></transaction_id>
+</xml>

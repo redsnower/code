@@ -1,0 +1,15 @@
+<xml>
+<!--
+这里Case3模拟数据被第三方篡改导致签名验证不通过的情况，所以以下本来是服务器返回的正常数据，只需要在里面稍微修改一丁点数据就可以达到这个效果
+-->
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[OK]]></return_msg>
+<appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+<mch_id><![CDATA[10000097]]></mch_id>
+<device_info><![CDATA[GRZ的测试机这里被篡改]]></device_info>
+<nonce_str><![CDATA[NnAaEZV2ni44B3t2]]></nonce_str>
+<sign><![CDATA[7339EADE95F0A2F592C4B7FA6E7D2180]]></sign>
+<result_code><![CDATA[FAIL]]></result_code>
+<err_code><![CDATA[AUTHCODEEXPIRE]]></err_code>
+<err_code_des><![CDATA[二维码已过期，请刷新再试]]></err_code_des>
+</xml>

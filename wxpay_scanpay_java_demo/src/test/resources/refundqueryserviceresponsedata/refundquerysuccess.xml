@@ -1,0 +1,20 @@
+<xml>
+    <!--
+    这里Case5模拟查询成功
+    -->
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <nonce_str><![CDATA[yJJBiBaZEujFtdld]]></nonce_str>
+    <out_refund_no_0><![CDATA[100000001]]></out_refund_no_0>
+    <out_trade_no><![CDATA[1400755861]]></out_trade_no>
+    <refund_count>1</refund_count>
+    <refund_fee_0>1</refund_fee_0>
+    <refund_id_0><![CDATA[2001750737201411010000174008]]></refund_id_0>
+    <refund_status_0><![CDATA[SUCCESS]]></refund_status_0>
+    <result_code><![CDATA[SUCCESS]]></result_code>
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <sign><![CDATA[67B125293DCB6E4E10FC01B6C4358F15]]></sign>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <transaction_id><![CDATA[1001750737201410240005451545]]></transaction_id>
+</xml>

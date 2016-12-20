@@ -1,0 +1,20 @@
+<xml>
+    <!--
+    退款失败时API返回的数据样本
+    -->
+    <return_code><![CDATA[SUCCESS]]></return_code>
+    <return_msg><![CDATA[OK]]></return_msg>
+    <appid><![CDATA[wxf5b5e87a6a0fde94]]></appid>
+    <mch_id><![CDATA[10000097]]></mch_id>
+    <sub_mch_id><![CDATA[]]></sub_mch_id>
+    <nonce_str><![CDATA[kyHBruGC9axSCcVp]]></nonce_str>
+    <sign><![CDATA[D3F0FA45DE6F3AC8DE6334887729AA40]]></sign>
+    <result_code><![CDATA[FAIL]]></result_code>
+    <transaction_id><![CDATA[1001750737201411070005670589]]></transaction_id>
+    <out_trade_no><![CDATA[1000000005]]></out_trade_no>
+    <out_refund_no><![CDATA[]]></out_refund_no>
+    <refund_id><![CDATA[]]></refund_id>
+    <refund_channel><![CDATA[]]></refund_channel>
+    <refund_fee>1</refund_fee>
+    <coupon_refund_fee>0</coupon_refund_fee>
+</xml>
